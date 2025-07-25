@@ -21,6 +21,13 @@ Uma calculadora de Índice de Massa Corporal (IMC) simples, intuitiva e totalmen
 * **JavaScript:** Lógica de cálculo do IMC, validação de entrada e manipulação do DOM para exibição de resultados.
 
 ---
+## 🚀 Demonstração
+
+Veja a calculadora em funcionamento:
+
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/9f118a57-ab1c-4f2c-ae52-f773829568ed" />
+
+---
 
 ## 🛠️ Como Usar
 
